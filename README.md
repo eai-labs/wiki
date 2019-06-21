@@ -1,3 +1,5 @@
-# wiki
+Servidor Jenkins
 
-[Go Home](https://github.com/eai-labs/wiki/wiki)
+http://159.203.116.182:8080/
+
+Peça acesso.
